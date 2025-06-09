@@ -6,7 +6,7 @@ This repository contains the learning materials for the Introduction to Quantum 
 
 The current repository contains: 
 
-- A lesson plan for teachers and volunteers who would like to deliver the workshop on their own. (Strongly encouraged to be read before delivering the workshop to students.) 
+- A lesson plan for teachers and volunteers who would like to deliver the workshop on their own. (Strongly encouraged before delivering the workshop to students.) 
 - Presentation slides for long and short deliveries 
 
 The website to accompany this workshop is live at [intro2qc.uvic.ca](https://intro2qc.uvic.ca). 
