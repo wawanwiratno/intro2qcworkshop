@@ -4,7 +4,7 @@
 
 This repository contains the learning materials for the Introduction to Quantum Computing workshop for High School STEM Students. 
 
-The current repository contains: 
+The repository contains: 
 
 - A lesson plan for teachers and volunteers who would like to deliver the workshop on their own. (Strongly encouraged before delivering the workshop to students.) 
 - Presentation slides for long and short deliveries 
