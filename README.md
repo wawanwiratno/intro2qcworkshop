@@ -2,7 +2,7 @@
 
 ## Welcome 👋 
 
-This repository contains the learning materials for the Introduction to Quantum Computing workshop for High School STEM Students. 
+This repository holds the learning materials for the Introduction to Quantum Computing workshop for High School STEM Students. 
 
 The repository contains: 
 
